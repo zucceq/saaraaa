@@ -23,7 +23,7 @@ body {
 .wrapper {
     position: relative;
     width: 800px;
-    height: 600px;
+    height: 800px;
     background: #fff;
     border-radius: 60px;
     display: flex;
@@ -56,7 +56,7 @@ h2 {
 
 button {
     position: absolute;
-    width: 150px;
+    width: 130px;
     height: inherit;
     font-size: 1.2em;
     color: #fff;
