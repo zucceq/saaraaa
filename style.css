@@ -16,14 +16,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 80vh;
+    min-height: 120vh;
     background: #7d2ae8;
 }
 
 .wrapper {
     position: relative;
-    width: 600px;
-    height: 400px;
+    width: 800px;
+    height: 600px;
     background: #fff;
     border-radius: 60px;
     display: flex;
