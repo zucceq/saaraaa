@@ -7,7 +7,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'ugaasa ci darj cdq cutie tghr hvnii naimaacinc baij mgdgu bas uguch bj mgdgu:)) <33333';
+    question.innerHTML = urgoo deer ireed zalga togloh hrggu <33333';
 });
 
 noBtn.addEventListener('mouseover', () => {
